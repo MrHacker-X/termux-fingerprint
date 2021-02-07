@@ -3,7 +3,7 @@
 You can secure your terminal emulator with your fingerprint anybody can't use your terminal without your permission 
 ## Note:
 + This lock will only work on a device that already has a fingerprint lock system.
-## Available
+## Available For
 + ~Linux OS~
 + Termux
 ## Tasted On
